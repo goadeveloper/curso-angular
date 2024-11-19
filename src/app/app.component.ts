@@ -9,5 +9,5 @@ import { ComponenteEnLineaComponent } from "./componente-en-linea/componente-en-
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'curso-angular';
+  title = 'Hola mundo desde Angular';
 }
