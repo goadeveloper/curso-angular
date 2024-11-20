@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { ReplicadorComponent } from "./replicador/replicador.component";
+import { SaludarComponent } from "./saludar/saludar.component";
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, ReplicadorComponent],
+  imports: [RouterOutlet, SaludarComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
